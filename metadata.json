@@ -1,0 +1,7 @@
+{
+  "name": "Singapore Airshow AI Booking",
+  "description": "A project-centric AI-powered appointment booking platform for the Singapore Airshow, featuring conversational profiling and professional matchmaking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
